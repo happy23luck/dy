@@ -1,2 +1,2 @@
-trojan-go://adbcaeb1-2c33-4fbb-92fc-270bd549b22d@btre57tdrtdr.herokuapp.com:443/?type=ws&sni=btre57tdrtdr.herokuapp.com&host=btre57tdrtdr.herokuapp.com&path=%2Fadbcaeb1-2c33-4fbb-92fc-270bd549b22d-trojan#trojan-go@btre57tdrtdr.herokuapp.com:443
-vmess://ws+tls:8765e661-632e-45d2-8700-40f78a7d584d-0@btre57tdrtdr.herokuapp.com:443/?host=btre57tdrtdr.herokuapp.com&path=/8765e661-632e-45d2-8700-40f78a7d584d-vmess&allowInsecure=true&tlsServerName=btre57tdrtdr.herokuapp.com#
+vmess://ws+tls:ef2f1218-3d81-a302-c6b0-9e0a495a5441-0@172.64.170.33:443/?host=letme68lookat95theshore.happy8boy.workers.dev&path=/gqkuvws&allowInsecure=true&tlsServerName=letme68lookat95theshore.happy8boy.workers.dev#vms-33
+vmess://ws+tls:ef2f1218-3d81-a302-c6b0-9e0a495a5441-0@190.93.247.123:443/?host=35matter.fgnbwygac.ml&path=/gqkuvws&allowInsecure=true&tlsServerName=35matter.fgnbwygac.ml#vms-35
