@@ -1,0 +1,2 @@
+trojan-go://adbcaeb1-2c33-4fbb-92fc-270bd549b22d@btre57tdrtdr.herokuapp.com:443/?type=ws&sni=btre57tdrtdr.herokuapp.com&host=btre57tdrtdr.herokuapp.com&path=%2Fadbcaeb1-2c33-4fbb-92fc-270bd549b22d-trojan#trojan-go@btre57tdrtdr.herokuapp.com:443
+vmess://ws+tls:8765e661-632e-45d2-8700-40f78a7d584d-0@btre57tdrtdr.herokuapp.com:443/?host=btre57tdrtdr.herokuapp.com&path=/8765e661-632e-45d2-8700-40f78a7d584d-vmess&allowInsecure=true&tlsServerName=btre57tdrtdr.herokuapp.com#
