@@ -1,0 +1,2 @@
+vmess://ws+tls:0278a354-36ad-8dea-28d3-edc87c2189c3-0@drkb07.r1nhatzh3f.ga:443/?host=drkb07.r1nhatzh3f.ga&path=/alonevws&allowInsecure=true&tlsServerName=drkb07.r1nhatzh3f.ga#VMESS4-2
+vmess://ws+tls:a92fd2f1-6888-4a7f-9ec5-ca593e243e19-0@test04.lengbing.repl.co:443/?host=test04.lengbing.repl.co&path=/a92fd2f1-6888-4a7f-9ec5-ca593e243e19-vmess&allowInsecure=true&tlsServerName=test04.lengbing.repl.co#vmess4
